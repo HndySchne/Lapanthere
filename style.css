@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -890,6 +890,10 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .bg-presentation {
+        max-width: 767px;
+    }
+
     .page-container {
         overflow-x: hidden;
         position: relative;
