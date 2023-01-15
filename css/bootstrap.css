@@ -8009,6 +8009,11 @@ button.close {
         justify-content: center;
     }
 
+    .col-sm-6 img{
+        width: 400px;
+        height: 400px;
+    }
+
     /* responsive max limite de 400px */
     .img-responsive{
         max-width: 350px;
