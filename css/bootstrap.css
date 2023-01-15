@@ -8014,6 +8014,11 @@ button.close {
         height: 400px;
     }
 
+    .col-sm-12 img{
+        width: 100px;
+        height: 100px;
+    }
+
     /* responsive max limite de 400px */
     .img-responsive{
         max-width: 350px;
