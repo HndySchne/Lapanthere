@@ -7795,7 +7795,9 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    height: 100px;
+    width: 100px;
 }
 
 .pull-right {
@@ -8012,11 +8014,6 @@ button.close {
     .col-sm-6 img{
         width: 400px;
         height: 400px;
-    }
-
-    .col-sm-12 img{
-        width: 100px;
-        height: 100px;
     }
 
     /* responsive max limite de 400px */
