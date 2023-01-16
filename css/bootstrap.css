@@ -15,6 +15,7 @@ html {
 body {
     margin: 0
 }
+
 .col-sm-12 img{
     height: 100px;
     width: 100px;    
@@ -7796,11 +7797,11 @@ button.close {
     clear: both
 }
 
-.center-block {
+/* .center-block {
     display: block;
     margin-right: auto;
     margin-left: auto;
-}
+} */
 
 .pull-right {
     float: right !important
