@@ -15,6 +15,10 @@ html {
 body {
     margin: 0
 }
+.col-sm-12 img{
+    height: 100px;
+    width: 100px;    
+}
 
 article,
 aside,
@@ -7796,8 +7800,6 @@ button.close {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    height: 100px;
-    width: 100px;
 }
 
 .pull-right {
